@@ -11,5 +11,4 @@ Here are some ideas to get you started:
 -->
 
 Hey! sup? <BR>
-I'm currently working on [Beat N' Boom](https://github.com/MONzTER-DEVS/BeatBoomer) as my main project.
 
