@@ -11,7 +11,7 @@
   
 🔭 I’m currently working on a cool project
   
-🌱 I’m currently learning : Nuxt 3
+🌱 I’m currently making quality connections with irl people.
 
 📫 How to reach me:  
 Mail me at "dev2005adi@gmail.com" or <br>
